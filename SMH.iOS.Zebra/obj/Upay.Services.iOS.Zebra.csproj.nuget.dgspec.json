@@ -1,0 +1,38 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/Upay.Services.iOS.Zebra.csproj": {}
+  },
+  "projects": {
+    "/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/Upay.Services.iOS.Zebra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/Upay.Services.iOS.Zebra.csproj",
+        "projectName": "NativeLibrary",
+        "projectPath": "/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/Upay.Services.iOS.Zebra.csproj",
+        "packagesPath": "/Users/shewison/.nuget/packages/",
+        "outputPath": "/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/shewison/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "http://nuget.uxdivers.com/grial/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {}
+      }
+    }
+  }
+}

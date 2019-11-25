@@ -1,0 +1,13 @@
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/bin/Debug/netstandard2.0/Zebra.deps.json
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/bin/Debug/netstandard2.0/Zebra.dll
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/bin/Debug/netstandard2.0/ref/Zebra.dll
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/bin/Debug/netstandard2.0/Zebra.pdb
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/obj/Debug/netstandard2.0/Zebra.csprojAssemblyReference.cache
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/obj/Debug/netstandard2.0/Zebra.AssemblyInfoInputs.cache
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/obj/Debug/netstandard2.0/Zebra.AssemblyInfo.cs
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/obj/Debug/netstandard2.0/Zebra.dll
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/obj/Debug/netstandard2.0/ref/Zebra.dll
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/Zebra/obj/Debug/netstandard2.0/Zebra.pdb

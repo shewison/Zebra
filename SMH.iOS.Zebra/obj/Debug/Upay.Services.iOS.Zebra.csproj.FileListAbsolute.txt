@@ -1,0 +1,5 @@
+/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/bin/Debug/NativeLibrary.dll
+/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/bin/Debug/NativeLibrary.pdb
+/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/obj/Debug/NativeLibrary.dll
+/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/obj/Debug/NativeLibrary.pdb
+/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/obj/Debug/Upay.Services.iOS.Zebra.csprojAssemblyReference.cache

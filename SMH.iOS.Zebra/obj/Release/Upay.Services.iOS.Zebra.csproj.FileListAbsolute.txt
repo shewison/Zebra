@@ -1,0 +1,4 @@
+/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/bin/Release/NativeLibrary.dll
+/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/bin/Release/NativeLibrary.pdb
+/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/obj/Release/NativeLibrary.dll
+/Users/shewison/upay-services-app/Upay.Services.iOS.Zebra/obj/Release/NativeLibrary.pdb

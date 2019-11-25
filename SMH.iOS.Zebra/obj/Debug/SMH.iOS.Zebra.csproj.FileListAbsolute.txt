@@ -1,0 +1,14 @@
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/obj/Debug/SMH.iOS.Zebra.csprojAssemblyReference.cache
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/obj/Debug/NativeLibrary.dll
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/obj/Debug/NativeLibrary.pdb
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/bin/Debug/NativeLibrary.dll
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/bin/Debug/NativeLibrary.pdb
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/obj/Debug/XamlC.stamp
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/bin/Debug/Zebra.dll
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/bin/Debug/Zebra.pdb
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/obj/Debug/SMH.iOS.Zebra.csproj.CopyComplete
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/SMH.iOS.Zebra/bin/Debug/NativeLibrary.dll
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/SMH.iOS.Zebra/bin/Debug/NativeLibrary.pdb
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/SMH.iOS.Zebra/obj/Debug/XamlC.stamp
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/SMH.iOS.Zebra/obj/Debug/NativeLibrary.dll
+/Users/shewison/Documents/SMH/SMH.iOS.Zebra/SMH.iOS.Zebra/obj/Debug/NativeLibrary.pdb

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{C8B3B729-F2B1-413A-B331-4F7FD3C185AF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Zebra.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C64EE6A0-48BC-472F-AC2D-DD02216ABD2B" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zebra.iOS/ZebraPlatform/ZebraPlatformManager.cs">
+    <Files>
+      <File FileName="Zebra.iOS/AppDelegate.cs" Line="4" Column="1" />
+      <File FileName="Zebra.iOS/ZebraPlatform/ZebraPlatformManager.cs" Line="1" Column="1" />
+      <File FileName="Zebra.iOS/ZebraPlatform/ZebraScanner.cs" />
+      <File FileName="Zebra/IZebraManager.cs" />
+      <File FileName="Zebra/IZebraScanner.cs" />
+      <File FileName="Zebra.iOS/ZebraPlatform/EventReceiver.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SMH.iOS.Zebra" expanded="True">
+            <Node name="Zebra.iOS" expanded="True">
+              <Node name="ZebraPlatform" expanded="True">
+                <Node name="ZebraPlatformManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>SMH.iOS.Zebra.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
